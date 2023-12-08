@@ -706,13 +706,14 @@
   {
     "speciesId": "staraptor",
     "fastMove": "WING_ATTACK",
-    "chargedMoves": ["BRAVE_BIRD","CLOSE_COMBAT"],
+    "chargedMoves": ["FLY","CLOSE_COMBAT"],
     "weight": 1
   },
   {
-    "speciesId": "staraptor",
+    "speciesId": "staraptor_shadow",
     "fastMove": "WING_ATTACK",
-    "weight": 1
+    "chargedMoves": ["FLY","CLOSE_COMBAT"],
+    "weight": 2
   },
   {
     "speciesId": "sylveon",
