@@ -1,8 +1,4 @@
 [{
-    "speciesId": "articuno",
-    "fastMove": "ICE_SHARD",
-    "chargedMoves": ["ICY_WIND", "HURRICANE"]
-}, {
     "speciesId": "clefable",
     "fastMove": "FAIRY_WIND",
     "chargedMoves": ["METEOR_MASH", "MOONBLAST"]
@@ -86,11 +82,6 @@
     "fastMove": "POISON_JAB",
     "chargedMoves": ["DARK_PULSE", "THUNDER_PUNCH"]
 }, {
-    "speciesId": "muk_shadow",
-    "fastMove": "POISON_JAB",
-    "chargedMoves": ["DARK_PULSE", "THUNDER_PUNCH"],
-    "shadowType": "shadow"
-}, {
     "speciesId": "muk_alolan_shadow",
     "fastMove": "POISON_JAB",
     "chargedMoves": ["DARK_PULSE", "ACID_SPRAY"],
@@ -115,6 +106,10 @@
     "speciesId": "pyroar",
     "fastMove": "INCINERATE",
     "chargedMoves": ["DARK_PULSE", "FLAME_CHARGE"]
+}, {
+    "speciesId": "regice",
+    "fastMove": "LOCK_ON",
+    "chargedMoves": ["THUNDER","FOCUS_BLAST"]
 }, {
     "speciesId": "sandslash_alolan_shadow",
     "fastMove": "SHADOW_CLAW",
@@ -142,6 +137,11 @@
     "speciesId": "snorlax",
     "fastMove": "LICK",
     "chargedMoves": ["BODY_SLAM", "SUPER_POWER"]
+}, {
+    "speciesId": "staraptor_shadow",
+    "fastMove": "WING_ATTACK",
+    "chargedMoves": ["FLY","CLOSE_COMBAT"],
+    "shadowType": "shadow"
 }, {
     "speciesId": "tapu_fini",
     "fastMove": "WATER_GUN",
