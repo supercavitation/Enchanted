@@ -1,0 +1,9 @@
+	{
+        "title": "Enchanted Cup",
+        "cup": "enchanted",
+        "cp": 2500,
+        "meta": "enchanted",
+        "showCup": true,
+        "showFormat": true,
+        "showMeta": true
+    }
