@@ -31,6 +31,12 @@
     "weight": 1
   },
   {
+    "speciesId": "annihilape",
+    "fastMove": "COUNTER",
+    "chargedMoves": ["SHADOW_BALL","NIGHT_SLASH"],
+    "weight": 15
+  },
+  {
     "speciesId": "articuno",
     "fastMove": "ICE_SHARD",
     "chargedMoves": ["ICY_WIND","HURRICANE"],
@@ -55,6 +61,12 @@
   {
     "speciesId": "bisharp",
     "chargedMoves": ["DARK_PULSE","IRON_HEAD"],
+    "weight": 1
+  },
+  {
+    "speciesId": "blissey",
+    "fastMove": "ZEN_HEADBUTT",
+    "chargedMoves": ["PSYCHIC","WILD_CHARGE"],
     "weight": 1
   },
   {
@@ -99,6 +111,12 @@
     "weight": 7
   },
   {
+    "speciesId": "decidueye",
+    "fastMove": "ASTONISH",
+    "chargedMoves": ["FRENZY_PLANT","SPIRIT_SHACKLE"],
+    "weight": 1
+  },
+  {
     "speciesId": "deoxys_defense",
     "chargedMoves": ["PSYCHO_BOOST","THUNDERBOLT"],
     "weight": 5
@@ -130,7 +148,7 @@
   {
     "speciesId": "dubwool",
     "chargedMoves": ["BODY_SLAM","PAYBACK"],
-    "weight": 15
+    "weight": 7
   },
   {
     "speciesId": "empoleon",
@@ -146,10 +164,12 @@
   },
   {
     "speciesId": "excadrill",
+    "fastMove": "MUD_SHOT",
     "weight": 3
   },
   {
     "speciesId": "excadrill_shadow",
+    "fastMove": "MUD_SHOT",
     "weight": 4
   },
   {
@@ -362,7 +382,7 @@
   {
     "speciesId": "lickilicky",
     "chargedMoves": ["BODY_SLAM","SHADOW_BALL"],
-    "weight": 8
+    "weight": 12
   },
   {
     "speciesId": "lucario",
@@ -577,7 +597,7 @@
   },
   {
     "speciesId": "reshiram",
-    "chargedMoves": ["CRUNCH","OVERHEAT"],
+    "chargedMoves": ["CRUNCH","FUSION_FLARE"],
     "weight": 1
   },
   {
@@ -803,7 +823,7 @@
   {
     "speciesId": "yveltal",
     "fastMove": "SNARL",
-    "chargedMoves": ["DARK_PULSE","HURRICANE"],
+    "chargedMoves": ["DARK_PULSE","OBLIVION_WING"],
     "weight": 1
   },
   {
