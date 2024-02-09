@@ -23,18 +23,18 @@
   {
     "speciesId": "ampharos",
     "chargedMoves": ["BRUTAL_SWING","FOCUS_BLAST"],
-    "weight": 1
+    "weight": 3
   },
   {
     "speciesId": "ampharos_shadow",
     "chargedMoves": ["THUNDER_PUNCH","BRUTAL_SWING"],
-    "weight": 1
+    "weight": 3
   },
   {
     "speciesId": "annihilape",
     "fastMove": "COUNTER",
     "chargedMoves": ["SHADOW_BALL","NIGHT_SLASH"],
-    "weight": 15
+    "weight": 17
   },
   {
     "speciesId": "articuno",
@@ -92,7 +92,7 @@
   },
   {
     "speciesId": "clefable",
-    "weight": 6
+    "weight": 9
   },
   {
     "speciesId": "cofagrigus",
@@ -108,7 +108,7 @@
     "speciesId": "cresselia",
     "fastMove": "PSYCHO_CUT",
     "chargedMoves": ["GRASS_KNOT","MOONBLAST"],
-    "weight": 7
+    "weight": 12
   },
   {
     "speciesId": "decidueye",
@@ -143,18 +143,18 @@
   {
     "speciesId": "drapion_shadow",
     "chargedMoves": ["CRUNCH","AQUA_TAIL"],
-    "weight": 1
+    "weight": 9
   },
   {
     "speciesId": "dubwool",
     "chargedMoves": ["BODY_SLAM","PAYBACK"],
-    "weight": 7
+    "weight": 17
   },
   {
     "speciesId": "empoleon",
     "fastMove": "WATERFALL",
     "chargedMoves": ["HYDRO_CANNON","DRILL_PECK"],
-    "weight": 1
+    "weight": 4
   },
   {
     "speciesId": "escavalier",
@@ -165,12 +165,12 @@
   {
     "speciesId": "excadrill",
     "fastMove": "MUD_SHOT",
-    "weight": 3
+    "weight": 5
   },
   {
     "speciesId": "excadrill_shadow",
     "fastMove": "MUD_SHOT",
-    "weight": 4
+    "weight": 2
   },
   {
     "speciesId": "exeggutor_alolan",
@@ -190,13 +190,13 @@
   {
     "speciesId": "florges",
     "chargedMoves": ["DISARMING_VOICE","MOONBLAST"],
-    "weight": 8
+    "weight": 3
   },
   {
     "speciesId": "flygon",
     "fastMove": "DRAGON_TAIL",
     "chargedMoves": ["DRAGON_CLAW","SCORCHING_SANDS"],
-    "weight": 1
+    "weight": 4
   },
   {
     "speciesId": "flygon_shadow",
@@ -255,7 +255,7 @@
     "speciesId": "golisopod",
     "fastMove": "SHADOW_CLAW",
     "chargedMoves": ["LIQUIDATION","X_SCISSOR"],
-    "weight": 2
+    "weight": 8
   },
   {
     "speciesId": "goodra",
@@ -292,7 +292,7 @@
     "speciesId": "guzzlord",
     "fastMove": "DRAGON_TAIL",
     "chargedMoves": ["DRAGON_CLAW","CRUNCH"],
-    "weight": 4
+    "weight": 6
   },
   {
     "speciesId": "haxorus",
@@ -342,7 +342,7 @@
     "speciesId": "jellicent",
     "fastMove": "HEX",
     "chargedMoves": ["SURF","SHADOW_BALL"],
-    "weight": 5
+    "weight": 10
   },
   {
     "speciesId": "jirachi",
@@ -362,7 +362,7 @@
   {
     "speciesId": "kommo_o",
     "fastMove": "DRAGON_TAIL",
-    "weight": 6
+    "weight": 3
   },
   {
     "speciesId": "kyurem",
@@ -387,7 +387,7 @@
   {
     "speciesId": "lucario",
     "chargedMoves": ["BLAZE_KICK","SHADOW_BALL"],
-    "weight": 6
+    "weight": 1
   },
   {
     "speciesId": "lugia",
@@ -404,18 +404,18 @@
     "speciesId": "magnezone",
     "fastMove": "VOLT_SWITCH",
     "chargedMoves": ["WILD_CHARGE","FLASH_CANNON"],
-    "weight": 3
+    "weight": 2
   },
   {
     "speciesId": "magnezone_shadow",
     "fastMove": "VOLT_SWITCH",
     "chargedMoves": ["WILD_CHARGE","FLASH_CANNON"],
-    "weight": 6
+    "weight": 3
   },
   {
     "speciesId": "mandibuzz",
     "chargedMoves": ["DARK_PULSE","AERIAL_ACE"],
-    "weight": 7
+    "weight": 11
   },
   {
     "speciesId": "melmetal",
@@ -446,7 +446,7 @@
     "speciesId": "miltank",
     "fastMove": "TACKLE",
     "chargedMoves": ["BODY_SLAM","THUNDERBOLT"],
-    "weight": 3
+    "weight": 2
   },
   {
     "speciesId": "moltres_galarian",
@@ -464,7 +464,7 @@
     "speciesId": "muk",
     "fastMove": "POISON_JAB",
     "chargedMoves": ["DARK_PULSE","THUNDER_PUNCH"],
-    "weight": 5
+    "weight": 4
   },
   {
     "speciesId": "muk_alolan",
@@ -482,7 +482,7 @@
     "speciesId": "muk_shadow",
     "fastMove": "POISON_JAB",
     "chargedMoves": ["DARK_PULSE","THUNDER_PUNCH"],
-    "weight": 1
+    "weight": 4
   },
   {
     "speciesId": "ninetales_alolan",
@@ -500,12 +500,12 @@
     "speciesId": "obstagoon",
     "fastMove": "COUNTER",
     "chargedMoves": ["NIGHT_SLASH","CROSS_CHOP"],
-    "weight": 9
+    "weight": 3
   },
   {
     "speciesId": "oinkologne_female",
     "chargedMoves": ["BODY_SLAM","DIG"],
-    "weight": 9
+    "weight": 2
   },
   {
     "speciesId": "oranguru",
@@ -515,7 +515,7 @@
   {
     "speciesId": "overqwil",
     "chargedMoves": ["AQUA_TAIL","SHADOW_BALL"],
-    "weight": 5
+    "weight": 6
   },
   {
     "speciesId": "palkia",
@@ -525,7 +525,7 @@
   },
   {
     "speciesId": "palossand",
-    "weight": 3
+    "weight": 5
   },
   {
     "speciesId": "primarina",
@@ -560,7 +560,7 @@
     "speciesId": "pyroar",
     "fastMove": "INCINERATE",
     "chargedMoves": ["FLAME_CHARGE","DARK_PULSE"],
-    "weight": 4
+    "weight": 2
   },
   {
     "speciesId": "qwilfish_hisuian",
@@ -587,7 +587,7 @@
     "speciesId": "regice",
     "fastMove": "LOCK_ON",
     "chargedMoves": ["THUNDER","FOCUS_BLAST"],
-    "weight": 1
+    "weight": 4
   },
   {
     "speciesId": "regice_shadow",
@@ -621,7 +621,7 @@
     "speciesId": "sandslash_alolan_shadow",
     "fastMove": "SHADOW_CLAW",
     "chargedMoves": ["ICE_PUNCH","DRILL_RUN"],
-    "weight": 1
+    "weight": 5
   },
   {
     "speciesId": "scizor",
@@ -639,7 +639,7 @@
     "speciesId": "scrafty",
     "fastMove": "COUNTER",
     "chargedMoves": ["FOUL_PLAY","POWER_UP_PUNCH"],
-    "weight": 10
+    "weight": 2
   },
   {
     "speciesId": "shiftry",
@@ -655,17 +655,17 @@
     "speciesId": "skeledirge",
     "fastMove": "INCINERATE",
     "chargedMoves": ["SHADOW_BALL","DISARMING_VOICE"],
-    "weight": 17
+    "weight": 20
   },
   {
     "speciesId": "skuntank",
     "chargedMoves": ["CRUNCH","TRAILBLAZE"],
-    "weight": 1
+    "weight": 4
   },
   {
     "speciesId": "skuntank_shadow",
     "chargedMoves": ["CRUNCH","TRAILBLAZE"],
-    "weight": 5
+    "weight": 6
   },
   {
     "speciesId": "slowbro",
@@ -704,18 +704,22 @@
     "weight": 1
   },
   {
+    "speciesId": "sneasler",
+    "weight": 2
+  },
+  {
     "speciesId": "sneasler_shadow",
-    "weight": 5
+    "weight": 1
   },
   {
     "speciesId": "snorlax",
     "chargedMoves": ["BODY_SLAM","SUPER_POWER"],
-    "weight": 3
+    "weight": 4
   },
   {
     "speciesId": "snorlax_shadow",
     "chargedMoves": ["BODY_SLAM","SUPER_POWER"],
-    "weight": 1
+    "weight": 2
   },
   {
     "speciesId": "solgaleo",
@@ -733,7 +737,7 @@
     "speciesId": "staraptor_shadow",
     "fastMove": "WING_ATTACK",
     "chargedMoves": ["FLY","CLOSE_COMBAT"],
-    "weight": 2
+    "weight": 1
   },
   {
     "speciesId": "sylveon",
@@ -749,7 +753,7 @@
     "speciesId": "tapu_fini",
     "fastMove": "WATER_GUN",
     "chargedMoves": ["SURF","MOONBLAST"],
-    "weight": 17
+    "weight": 30
   },
   {
     "speciesId": "tapu_koko",
@@ -760,7 +764,7 @@
     "speciesId": "togedemaru",
     "fastMove": "THUNDER_SHOCK",
     "chargedMoves": ["FELL_STINGER","WILD_CHARGE"],
-    "weight": 5
+    "weight": 2
   },
   {
     "speciesId": "togekiss",
@@ -772,7 +776,7 @@
     "speciesId": "trevenant",
     "fastMove": "SHADOW_CLAW",
     "chargedMoves": ["SHADOW_BALL","SEED_BOMB"],
-    "weight": 1
+    "weight": 2
   },
   {
     "speciesId": "turtonator",
@@ -795,7 +799,7 @@
   {
     "speciesId": "umbreon",
     "chargedMoves": ["FOUL_PLAY","LAST_RESORT"],
-    "weight": 1
+    "weight": 2
   },
   {
     "speciesId": "ursaluna",
@@ -818,7 +822,7 @@
     "speciesId": "weezing_galarian",
     "fastMove": "FAIRY_WIND",
     "chargedMoves": ["BRUTAL_SWING","PLAY_ROUGH"],
-    "weight": 16
+    "weight": 25
   },
   {
     "speciesId": "yveltal",
@@ -834,7 +838,7 @@
   {
     "speciesId": "zapdos_shadow",
     "chargedMoves": ["DRILL_PECK","THUNDERBOLT"],
-    "weight": 1
+    "weight": 2
   },
   {
     "speciesId": "zekrom",
