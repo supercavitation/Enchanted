@@ -58,6 +58,14 @@
     "fastMove": "FAIRY_WIND",
     "chargedMoves": ["DISARMING_VOICE", "MOONBLAST"]
 }, {
+    "speciesId": "gallade",
+    "fastMove": "PSYCHO_CUT",
+    "chargedMoves": ["LEAF_BLADE", "CLOSE_COMBAT"]
+}, {
+    "speciesId": "gallade_shadow",
+    "fastMove": "PSYCHO_CUT",
+    "chargedMoves": ["LEAF_BLADE", "CLOSE_COMBAT"]
+}, {
     "speciesId": "golisopod",
     "fastMove": "SHADOW_CLAW",
     "chargedMoves": ["X_SCISSOR", "LIQUIDATION"]
