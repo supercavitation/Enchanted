@@ -198,13 +198,13 @@
   },
   {
     "speciesId": "flygon",
-    "fastMove": "DRAGON_TAIL",
+    "fastMove": "SAND_ATTACK",
     "chargedMoves": ["DRAGON_CLAW","SCORCHING_SANDS"],
     "weight": 4
   },
   {
     "speciesId": "flygon_shadow",
-    "fastMove": "DRAGON_TAIL",
+    "fastMove": "SAND_ATTACK",
     "chargedMoves": ["DRAGON_CLAW","SCORCHING_SANDS"],
     "weight": 1
   },
