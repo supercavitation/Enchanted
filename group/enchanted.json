@@ -11,6 +11,10 @@
     "fastMove": "COUNTER",
     "chargedMoves": ["NIGHT_SLASH","SHADOW_BALL"]
 }, {
+    "speciesId": "blastoise",
+    "fastMove": "WATER_GUN",
+    "chargedMoves": ["HYDRO_CANNON", "SKULL_BASH"]
+}, {
     "speciesId": "clefable",
     "fastMove": "FAIRY_WIND",
     "chargedMoves": ["METEOR_MASH", "MOONBLAST"]
