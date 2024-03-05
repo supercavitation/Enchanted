@@ -6,7 +6,7 @@
         "values": ["steel", "dragon", "fairy","dark","normal","ghost","psychic"]
     },{
         "filterType": "id",
-        "values": ["ampharos","ampharos_shadow","golisopod","articuno","articuno_shadow","muk","muk_shadow","zapdos","zapdos_shadow","regice","regice_shadow","sneasler","sneasler_shadow"]
+        "values": ["ampharos","ampharos_shadow","golisopod","articuno","articuno_shadow","muk","muk_shadow","zapdos","zapdos_shadow","regice","regice_shadow","sneasler","sneasler_shadow","blastoise","blastoise_shadow"]
     }],
     "exclude": [{
         "filterType": "tag",
