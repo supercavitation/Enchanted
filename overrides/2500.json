@@ -151,12 +151,6 @@
     "weight": 17
   },
   {
-    "speciesId": "empoleon",
-    "fastMove": "WATERFALL",
-    "chargedMoves": ["HYDRO_CANNON","DRILL_PECK"],
-    "weight": 4
-  },
-  {
     "speciesId": "escavalier",
     "fastMove": "COUNTER",
     "chargedMoves": ["MEGAHORN","DRILL_RUN"],
@@ -210,6 +204,21 @@
     "weight": 1
   },
   {
+    "speciesId": "furfrou",
+    "fastMove": "SAND_ATTACK",
+    "weight": 1
+  },
+  {
+    "speciesId": "gallade",
+    "fastMove": "PSYCHO_CUT",
+    "weight": 2
+  },
+  {
+    "speciesId": "gallade_shadow",
+    "fastMove": "PSYCHO_CUT",
+    "weight": 4
+  },
+  {
     "speciesId": "garchomp",
     "fastMove": "DRAGON_TAIL",
     "chargedMoves": ["SAND_TOMB","OUTRAGE"],
@@ -252,6 +261,11 @@
     "weight": 1
   },
   {
+    "speciesId": "giratina_origin",
+    "chargedMoves": ["SHADOW_BALL","OMINOUS_WIND"],
+    "weight": 1
+  },
+  {
     "speciesId": "golisopod",
     "fastMove": "SHADOW_CLAW",
     "chargedMoves": ["LIQUIDATION","X_SCISSOR"],
@@ -259,7 +273,7 @@
   },
   {
     "speciesId": "goodra",
-    "chargedMoves": ["MUDDY_WATER","DRACO_METEOR"],
+    "chargedMoves": ["AQUA_TAIL","DRACO_METEOR"],
     "weight": 1
   },
   {
@@ -363,6 +377,11 @@
     "speciesId": "kommo_o",
     "fastMove": "DRAGON_TAIL",
     "weight": 3
+  },
+  {
+    "speciesId": "krookodile",
+    "chargedMoves": ["BRICK_BREAK", "CRUNCH"],
+    "weight": 1
   },
   {
     "speciesId": "kyurem",
@@ -525,6 +544,7 @@
   },
   {
     "speciesId": "palossand",
+    "fastMove": "SAND_ATTACK",
     "weight": 5
   },
   {
