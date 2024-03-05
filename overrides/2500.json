@@ -64,6 +64,16 @@
     "weight": 1
   },
   {
+    "speciesId": "blastoise",
+    "chargedMoves": ["HYDRO_CANNON", "SKULL_BASH"],
+    "weight": 1
+  },
+  {
+    "speciesId": "blastoise_shadow",
+    "chargedMoves": ["HYDRO_CANNON", "SKULL_BASH"],
+    "weight": 1
+  },
+  {
     "speciesId": "blissey",
     "fastMove": "ZEN_HEADBUTT",
     "chargedMoves": ["PSYCHIC","WILD_CHARGE"],
